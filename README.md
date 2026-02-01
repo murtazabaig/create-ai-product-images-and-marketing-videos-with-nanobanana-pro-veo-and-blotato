@@ -1,6 +1,4 @@
-![Workflow thumbnail](assets/thumbnail.webp)
 
-![Workflow thumbnail](assets/thumbnail.svg)
 
 ![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
 ![license](https://img.shields.io/badge/license-MIT-green)
@@ -51,14 +49,6 @@ Automate product images and short marketing videos with NanoBanana Pro + Veo 3.1
 ## Author
 
 Murtaza Baig
-
-## Screenshots
-
-![Screenshot](assets/1954-ai-agent-chat.webp)
-![Screenshot](assets/2465-building-your-first-whatsapp-chatbot.webp)
-![Screenshot](assets/3066----automate-multi-platform-social-media-content-creation-with-ai.webp)
-![Screenshot](assets/n8nworfklows.webp)
-![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
