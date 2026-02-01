@@ -20,7 +20,6 @@ Automate product images and short marketing videos with NanoBanana Pro + Veo 3.1
 
 ## Included Files
 - `workflow.json`
-- `metadata.json`
 
 ## Setup
 1. Import `workflow.json` into n8n.
@@ -52,6 +51,14 @@ Automate product images and short marketing videos with NanoBanana Pro + Veo 3.1
 ## Author
 
 Murtaza Baig
+
+## Screenshots
+
+![Screenshot](assets/1954-ai-agent-chat.webp)
+![Screenshot](assets/2465-building-your-first-whatsapp-chatbot.webp)
+![Screenshot](assets/3066----automate-multi-platform-social-media-content-creation-with-ai.webp)
+![Screenshot](assets/n8nworfklows.webp)
+![Screenshot](assets/thumbnail.webp)
 
 ## License
 MIT License. See `LICENSE`.
